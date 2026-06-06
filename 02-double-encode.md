@@ -1,4 +1,4 @@
-# 02 — Double Encode
+# 02 — Double Encode- AMRRISH ROSHAN
 
 > **ZeroDay Heist 2026 · CyberHX**
 
