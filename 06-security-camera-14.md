@@ -1,4 +1,4 @@
-# 06 — Security Camera #14
+# 06 — Security Camera #14-AMRRISH ROSHAN
 
 > **ZeroDay Heist 2026 · CyberHX**
 
