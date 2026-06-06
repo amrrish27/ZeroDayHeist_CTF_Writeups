@@ -14,7 +14,7 @@ Complete writeups for the **ZeroDay Heist Community CTF** — a 6-hour online Ca
 | **Organizer** | CyberHX |
 | **Date** | June 6, 2026 |
 | **Duration** | 6 Hours (12:00 PM – 6:00 PM) |
-| **Mode** | Online · Individual |
+| **Mode** | Online |
 | **CTFtime** | [ZerodayHeist](https://ctftime.org/ctf/1595) |
 | **Unstop** | [Zero Day Heist 2026](https://unstop.com/hackathons/zero-day-heist-6-hour-ctf-challenge-cyber-hx-1683151) |
 
